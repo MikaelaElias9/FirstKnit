@@ -1,6 +1,6 @@
 ---
-title: "First Knit"
-author: "Your Name"
+title: "Mikaela Elias"
+author: "Mikaela Elias"
 output: 
   html_document:
     number_sections: true
@@ -17,7 +17,7 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+  I attended Littlerock High School for all 4 years, 2 of which I did on independent study. Yes, I did graduate.I graduated from High School in 2023. English was easier for me, I've always been better at English or Science. I did the best in science and health, this is what encouraged my choice of Major.
 
      
 
@@ -27,13 +27,13 @@ Where did you attend High School, and did you graduate? Compare english class to
 
 ### my answer   
   
-   
+   I am currently using an Acer Chromebook. On the scale I would think I'm about a 5. I live in Lake LA and my connection isn't the most reliable but works most of the time. 
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+  My name "Mikaela" is fine. 
    
  
 
@@ -44,7 +44,7 @@ What name do you prefer to be called by your classmates and instructor, if your 
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+  I'm more of a see where life takes me kind of person so the only achievements I have at the moment are to graduate with an associates degree, and possibly climb position status where I work. I believe anatomy would be the greatest interest because it pertains more to my major. I am trying to achieve an associates degrees in Radiology. 
    
  
 
@@ -55,7 +55,7 @@ What do you want to achieve in life?  What college subject do you think would be
 Have you ever gone to foreign countries, if so which ones, if not Where might you go in the future?  Have you ever been in the military, if so which branch, if not which branch would you choose if you got drafted, and why?
 
 ### my answer     
-  
+  I have not left the country but I have traveled quite a bit. I would like to visit Canada to see some of the National Parks. I have never been enlisted, but if I were to enlist I would probably enlist into the Air Force, mostly because of the movie "Top Gun".
    
   
 
@@ -68,7 +68,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
  
 
 ### my answer     
-  
+  Math 115. Yes I did know this only satisfies my general requirements. I would like to receive a B or higher. My plan is to work towards an associates degree in Radiology. 
    
  
 
