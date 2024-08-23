@@ -1,5 +1,5 @@
 ---
-title: "About me"
+title: " First Knit / About me"
 author: "Mikaela Elias"
 output: 
   html_document:
