@@ -1,5 +1,5 @@
 ---
-title: "Mikaela Elias"
+title: "About me"
 author: "Mikaela Elias"
 output: 
   html_document:
